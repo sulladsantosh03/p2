@@ -69,3 +69,21 @@ checkreach(int u)
 		return 1;
 	return 0;
 }
+/*
+DEPTH FIRST SEARCH
+	Enter number of Lands to be surveyed:  5
+	Enter the starting Land number: 1
+	Enter the adjacency matrix: 
+
+	0 1 1 1 0
+0 0 0 0 1
+0 0 0 0 0 
+0 0 0 0 0  
+0 0 0 0 0 
+
+	Vertices reached from the given vertex are...
+	1  2
+2  5
+1  3
+1  4
+*/
